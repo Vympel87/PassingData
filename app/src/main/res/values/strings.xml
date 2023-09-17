@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PassingData</string>
+    <string name="judul_page">Create an account</string>
+    <string name="judul_page3">Wellcome back</string>Wellcome back
+    <string name="box_1">Email me about new event or news</string>
+    <string name="box_2">I aggree to this application Term of Use and Privacy Policy</string>
+    <string name="btn_register">Create</string>
+    <string name="bawah1">Already a member?</string>
+    <string name="bawah2">LogIn</string>
+    <string name="btn_login">LogIn</string>
+    <string name="bawah3">Doesnt have an account yet?</string>
+    <string name="bawah4">Register</string>
+    <string name="aggreement1">By Creating an account, you agree to Application</string>
+    <string name="aggreement2">Term of Use and Privacy Policy</string>
+    <string name="judul_page2">About your account</string>
+    <string name="p2_t1">Welcome</string>
+    <string name="p2_t2">Username</string>
+    <string name="p2_t3">Your</string>
+    <string name="p2_t4">Email</string>
+    <string name="p2_t5">has been activated</string>
+    <string name="p2_t6">Your</string>
+    <string name="p2_t7">Phone</string>
+    <string name="p2_t8">has been registered</string>
+</resources>
